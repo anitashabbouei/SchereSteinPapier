@@ -33,6 +33,18 @@ public class SchereSteinPapier {
 		
 		while(spielenWir == true) {
 			
+			if(!sc.hasNext("Stop")) {
+				
+			} 
+			
+			else if(sc.hasNext("Stop")) {
+				spielenWir = false; 
+				sc.close();
+				System.out.println("Supper! Es war sehr schön mit dir zu spielen!");
+				
+				
+			}
+			
 			
 			
 		}
