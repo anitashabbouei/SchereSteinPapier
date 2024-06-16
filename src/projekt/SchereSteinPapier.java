@@ -27,7 +27,7 @@ public class SchereSteinPapier {
 		spieSpielStand = 0; 
 
 		System.out.println("Hey willst du mit mir eine Runde Schere, Stein Papier spielen?");
-		System.out.println("Okey, let's go:");
+		System.out.println("Okey, lass uns starten. Du bist dran. Gebe entweder Schere[0], Stein[1] oder Papier[3] ein.");
 
 		spielen();
 
@@ -40,6 +40,8 @@ public class SchereSteinPapier {
 		while (spielenWir == true) {
 
 			if (!sc.hasNext("Stop")) {
+				
+				
 
 				Random ran = new Random();
 
