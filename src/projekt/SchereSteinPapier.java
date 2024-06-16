@@ -57,6 +57,8 @@ public class SchereSteinPapier {
 				System.out.println("Supper! Es war sehr schön mit dir zu spielen!");
 				System.out.println("Supper! Es war sehr schön mit dir zu spielen!");
 				System.out.println("Supper! Es war sehr schön mit dir zu spielen!");
+				
+				
 
 			}
 
