@@ -61,7 +61,11 @@ public class SchereSteinPapier {
 				
 
 			}
+<<<<<<< HEAD
 
+=======
+			
+>>>>>>> 38219cb09b6a630b63e9f27b0263006bac469b0a
 		}
 
 	}
