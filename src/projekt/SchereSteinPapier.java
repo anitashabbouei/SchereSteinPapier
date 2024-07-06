@@ -11,12 +11,12 @@ public class SchereSteinPapier {
 	
 	int comSpielStand; 
 	int spieSpielStand; 
-
 	boolean spielenWir = false;
 
 	Scanner sc = new Scanner(System.in);
 	String[] StrArray = new String[3];
 
+	
 	public SchereSteinPapier() {
 
 		StrArray[0] = "Schere";
